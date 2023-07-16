@@ -1,16 +1,16 @@
-[![MasterHead]([https://www.pinterest.ph/pin/701224604486191081/](https://i.pinimg.com/originals/5d/c3/cc/5dc3ccae47d20dedb229267b811ff239.gif))] (ALEXANDRIYA)
+ ![MasterHead](https://i.giphy.com/media/dAcUSqS5cT5oIt75jS/giphy.webp)
 
 <h1 align="center">Hi 👋, I'm Alexandriya</h1>
-<h3 align="center"> Architecture student who is curious about how IT developers do their hacking stuff.</h3>
+<h2 align="center"> Architecture student who is curious about how IT developers do their hacking stuff.</h3>
 
 
 - 🔭 I’m currently working on **plates**
 
-- 🌱 I’m currently learning **Frameworks, CSS+, Javascript etc.**
+- 🌱 I’m currently learning **Frameworks, HTML+CSS+, Javascript, etc.**
 
-- 👨‍💻 All of my projects are available at [lmao still a student may be in the future](lmao still a student maybe in the future)
+- 👨‍💻 All of my projects are available at.. joke lmao still a student may be in the future
 
-- 📝 I regularly write articles on [my notion](my notion)
+- 📝 I regularly write my articles on my notion
 
 - 💬 Ask me about **Architecture things**
 
