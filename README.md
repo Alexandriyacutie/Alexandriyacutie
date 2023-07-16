@@ -1,6 +1,6 @@
  ![MasterHead](https://i.giphy.com/media/dAcUSqS5cT5oIt75jS/giphy.webp)
 
-<h1 align="center">Hi 👋, I'm Alexandriya</h1>
+<h1 align="center">Hi 👾, I'm Alexandriya</h1>
 <h2 align="center"> Architecture student who is curious about how IT developers do their hacking stuff.</h3>
 
 
